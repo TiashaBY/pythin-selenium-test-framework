@@ -1,0 +1,26 @@
+{
+  "correct_format_error_creds": {
+    "password": "1234567a",
+    "login": "test@gmail.com",
+    "show_password_error": true,
+    "password_error_text": "Credentials are incorrect",
+    "show_login_error": true,
+    "login_error_text": "Credentials are incorrect"
+  },
+  "incorrect_format": {
+    "password": "123a",
+    "login": "test",
+    "show_password_error": true,
+    "password_error_text": "Password must be more than 8 characters",
+    "show_login_error": true,
+    "login_error_text": "Please enter valid email address"
+  },
+  "empty_fields": {
+    "password": "",
+    "login": "",
+    "show_password_error": true,
+    "password_error_text": "Password is required",
+    "show_login_error": true,
+    "login_error_text": "Email is required"
+  }
+}

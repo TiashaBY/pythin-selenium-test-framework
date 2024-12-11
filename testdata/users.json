@@ -1,0 +1,10 @@
+{
+  "manager": {
+    "login": "manager@gmail.com",
+    "password": "none"
+  },
+  "user": {
+    "login": "user@gmail.com",
+    "password": "none
+  }
+}
